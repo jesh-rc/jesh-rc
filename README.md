@@ -1,49 +1,69 @@
+<!-- Header -->
 <h1 align="center">Hi, I'm Jeshurun 👋</h1>
-<h3 align="center">Software Engineering Student • Full-Stack Developer • Database Enthusiast</h3>
+<h3 align="center">Full-Stack Developer • Software Engineering Student • Backend & Databases</h3>
 
 <p align="center">
-  🚀 Building real-world systems • 🧩 Clean architecture advocate • 📦 Backend-focused  
+  🚀 Building real-world systems • 🧩 Clean architecture • 🌑 Dark-mode aesthetic  
 </p>
 
 ---
 
 ## ✨ About Me
 
-I'm a Software Engineering student at **Ontario Tech University** with strong interests in:
+I'm a Software Engineering student at **Ontario Tech University** focusing on:
 
-- Full-stack web development  
-- Backend engineering & REST APIs  
-- Database systems (MongoDB, PostgreSQL, SQL design)  
-- Cloud storage & scalable architectures  
+- Modern full-stack development  
+- Backend engineering & scalable REST APIs  
+- Database design (MongoDB, PostgreSQL, SQL)  
+- Cloud storage & distributed systems  
 
-Currently working on a **Leave-of-Absence Dashboard**, a full production-level application with modular API design, document storage, and organization-wide workflow support.
+Currently building a **Leave-of-Absence Dashboard**, a real internal system with modular APIs, secure document handling, and multi-entity workflows.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (with Icons)
 
 ### **Languages**
-Java • JavaScript • SQL
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+</p>
 
 ### **Backend**
-Node.js • Express.js • MongoDB • PostgreSQL
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+</p>
 
 ### **Frontend**
-React • TailwindCSS • HTML/CSS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
 
 ### **Tools & Platforms**
-Git • GitHub • VS Code • Docker  
-pgAdmin • MongoDB Compass • AWS S3 • Railway • Render
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" />
+</p>
 
 ---
 
 ## 📚 Coursework & Interests
 
-- SOFE 3700U – Database Management Systems  
-- Software Architecture & Design  
+- Database Management Systems (SOFE 3700U)  
+- Software Architecture  
 - Data Structures & Algorithms  
-- Web Development  
 - Cloud Computing  
+- Web Development  
 - Ethics, Law & Professionalism (ENGR 4760U)
 
 ---
@@ -51,24 +71,36 @@ pgAdmin • MongoDB Compass • AWS S3 • Railway • Render
 ## 🚀 Featured Project
 
 ### **Leave-of-Absence Dashboard**
-A full-stack internal tool built for real organizational use.
+A production-grade full-stack internal tool.
 
-- Modular API architecture (Node + Express)  
-- MongoDB data modeling & validation  
-- Document storage with AWS S3  
-- Authentication & role-based access  
-- Dashboard UI for managing employees, procedures, forms & leave requests  
+- Secure API architecture (Node + Express)  
+- Document storage & retrieval (AWS S3)  
+- MongoDB data modeling  
+- Employee / Procedure / Forms management  
+- Dashboard UI with authentication  
 
 🔗 *Project link coming soon*
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats (Dark Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesh-rc&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesh-rc&layout=compact&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jesh-rc&show_icons=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesh-rc&layout=compact&theme=dark" height="150" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jesh-rc/jesh-rc/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> **Important:**  
+> After adding this README, enable the snake animation by creating a GitHub Action.  
+> I can generate that for you — just ask.
 
 ---
 
@@ -80,5 +112,5 @@ A full-stack internal tool built for real organizational use.
 ---
 
 <p align="center">
-  💡 *Always learning, always building.*  
+  🌑 Built for dark mode • 💻 Always learning • 🚀 Always building  
 </p>
