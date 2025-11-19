@@ -1,93 +1,79 @@
-```md
 <!-- HEADER -->
-<div align="center">
-
-# 👋 Hi, I'm **Jeshurun Constantine**
-### 💡 Full-Stack Developer • Problem Solver • Builder of Useful Things
-
-Turning ideas into reality with code, design, and curiosity.
-
-</div>
+<h1 align="center">👋 Hi, I'm Jeshurun Constantine</h1>
+<h3 align="center">💡 Full-Stack Developer • Problem Solver • Builder of Useful Things</h3>
+<p align="center">Turning ideas into reality with code, design, and curiosity.</p>
 
 ---
 
-## 🧠 **About Me**
-- 🎓 Software Engineering Student @ Ontario Tech University
-- 🛠 Full-Stack Developer focused on productivity tools, dashboards, and automation
-- 💼 Freelance Developer building clean, scalable, and user-friendly applications
-- 🌱 Always learning — especially cloud, systems design, and backend engineering
+## 🧠 About Me
+- 🎓 Software Engineering Student @ Ontario Tech University  
+- 🛠 Full-Stack Developer focused on productivity tools, dashboards, and automation  
+- 💼 Freelance Developer building clean, scalable, and user-friendly applications  
+- 🌱 Always learning — especially cloud, systems design, and backend engineering  
 - ✨ Passionate about creating software that *makes life easier*
 
 ---
 
-## 🧑‍💻 **Tech Stack**
+## 🧑‍💻 Tech Stack
 
-### **Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,nodejs" />
-</p>
+**Languages:**  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) 
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) 
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) 
 
-### **Frameworks & Libraries**
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,express" />
-</p>
+**Frameworks & Libraries:**  
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) 
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) 
 
-### **Databases & Storage**
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
+**Databases & Storage:**  
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) 
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) 
 
-### **DevOps & Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
-</p>
-
----
-
-## 🌟 **Featured Projects**
-
-### 🔹 **Project Dashboard**
-A customizable leave-of-absence dashboard for HR teams
-- 🗂️ Modular design with 9 fully-tested functional modules
-- 📊 Real-time data visualization
-- ⚙️ Full CRUD backend with Node.js + Express + MongoDB
-- 🛡️ Strong validation + secure routing
+**DevOps & Tools:**  
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) 
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) 
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) 
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) 
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) 
 
 ---
 
-### 🔹 **Smart Productivity Tools**
-A suite of tools designed to improve workflow
-- 📝 Note system with search + categories
-- 🧩 Modular widgets (weather, quotes, reminders)
-- 💾 Local + cloud sync
-- 🎨 Clean, minimal UI
+## 🌟 Featured Projects
+
+### 🔹 Leave-of-Absence Dashboard
+- 🗂️ Modular design with 9 functional modules  
+- 📊 Real-time data visualization  
+- ⚙️ Full CRUD backend with Node.js + Express + MongoDB  
+- 🛡️ Secure routing + authentication  
+
+### 🔹 Smart Productivity Tools
+- 📝 Note system with categories and search  
+- 🧩 Modular widgets (weather, quotes, reminders)  
+- 💾 Local + cloud sync  
+- 🎨 Minimal and clean UI  
 
 ---
 
-## 📈 **GitHub Stats**
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jesh-rc&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesh-rc&layout=compact&theme=tokyonight" height="165" />
-</p>
+## 📈 GitHub Stats
+![Jeshurun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesh-rc&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesh-rc&layout=compact&theme=tokyonight)
 
 ---
 
-## 🐍 **Contribution Snake**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jesh-rc/jesh-rc/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## 🐍 Contribution Snake
+![Contribution Snake](https://raw.githubusercontent.com/jesh-rc/jesh-rc/output/github-contribution-grid-snake-dark.svg)  
 
-*(After you push your README, you can set up the workflow to generate this snake automatically.)*
+> ⚠️ Make sure the `output` branch exists or the snake image won’t render.
 
 ---
 
-## 🌍 **Connect With Me**
-<p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-</p>
+## 🌍 Connect With Me
+[LinkedIn](YOUR_LINK_HERE) | [GitHub](https://github.com/jesh-rc) | jeshurunConstantine@gmail.com
 
 ---
 
-## ✨ *“Code turns imagination into something real — and that’s the closest thing we have to magic.”*
-```
+✨ *“Code turns imagination into something real — the closest thing to magic.”*
