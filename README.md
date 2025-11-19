@@ -21,7 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" /> 
@@ -37,10 +36,11 @@
 
 ## 🌟 Featured Projects
 
-### 🔹 Leave-of-Absence Dashboard
+### 🔹 Leave-of-Absence Dashboard (In progress)
 - 🗂️ Modular design with 9 functional modules  
 - 📊 Real-time data visualization  
-- ⚙️ Full CRUD backend with Node.js + Express + MongoDB  
+- ⚙️ Full CRUD backend with Python + Flask + PostegreSQL  
+- ⚛️ Frontend using React
 - 🛡️ Secure routing + authentication  
 
 ### 🔹 Version Control Text Editor
@@ -49,7 +49,7 @@
 - 💾 Allows saving and restoration of **version history**.
 - 🎨 Frontend: HTML/CSS/JS | Backend logic: JavaScript.
 
-### 🔹 Automated Image Processing Pipeline
+### 🔹 Automated Image Processing Pipeline (In progress)
 - Python + AWS Lambda + S3 + DynamoDB + Rekognition  
 - Serverless image classification and face attribute analysis  
 - Metadata stored in DynamoDB for search and filtering  
