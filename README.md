@@ -1,25 +1,46 @@
-# Hi, I'm Jeshurun 👋
+<h1 align="center">Hi, I'm Jeshurun 👋</h1>
+<h3 align="center">Software Engineering Student • Full-Stack Developer • Database Enthusiast</h3>
 
-🎓 Software Engineering Student @ Ontario Tech University  
-💻 Passionate about full-stack development, backend engineering, databases, and cloud technologies  
-🚀 Currently building a **Leave-of-Absence Dashboard** for real-world use
-
----
-
-## 🧰 Technologies & Tools
-
-**Languages:** Java, JavaScript, SQL  
-**Backend:** Node.js, Express, MongoDB, PostgreSQL  
-**Frontend:** React, Tailwind, HTML/CSS  
-**Tools:** Git, GitHub, VS Code, Docker, pgAdmin, MongoDB Compass  
-**Cloud / Storage:** AWS (S3), Render, Railway
+<p align="center">
+  🚀 Building real-world systems • 🧩 Clean architecture advocate • 📦 Backend-focused  
+</p>
 
 ---
 
-## 📚 Relevant Coursework
+## ✨ About Me
 
-- Database Management Systems (SOFE 3700U)  
-- Software Architecture  
+I'm a Software Engineering student at **Ontario Tech University** with strong interests in:
+
+- Full-stack web development  
+- Backend engineering & REST APIs  
+- Database systems (MongoDB, PostgreSQL, SQL design)  
+- Cloud storage & scalable architectures  
+
+Currently working on a **Leave-of-Absence Dashboard**, a full production-level application with modular API design, document storage, and organization-wide workflow support.
+
+---
+
+## 🧰 Tech Stack
+
+### **Languages**
+Java • JavaScript • SQL
+
+### **Backend**
+Node.js • Express.js • MongoDB • PostgreSQL
+
+### **Frontend**
+React • TailwindCSS • HTML/CSS
+
+### **Tools & Platforms**
+Git • GitHub • VS Code • Docker  
+pgAdmin • MongoDB Compass • AWS S3 • Railway • Render
+
+---
+
+## 📚 Coursework & Interests
+
+- SOFE 3700U – Database Management Systems  
+- Software Architecture & Design  
 - Data Structures & Algorithms  
 - Web Development  
 - Cloud Computing  
@@ -27,34 +48,37 @@
 
 ---
 
-## 🚀 Featured Project: Leave-of-Absence Dashboard
+## 🚀 Featured Project
 
-A full-stack system built for real organizational use.
+### **Leave-of-Absence Dashboard**
+A full-stack internal tool built for real organizational use.
 
-- Built with **Node.js + Express + MongoDB**
-- Document preview & storage (AWS S3 optional)
-- Custom APIs for procedures, forms, employees & leave requests
-- Web dashboard UI + authentication
-- Actively being tested and improved
+- Modular API architecture (Node + Express)  
+- MongoDB data modeling & validation  
+- Document storage with AWS S3  
+- Authentication & role-based access  
+- Dashboard UI for managing employees, procedures, forms & leave requests  
 
-🔗 *Add project link here when ready*
+🔗 *Project link coming soon*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesh-rc&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesh-rc&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jesh-rc&show_icons=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesh-rc&layout=compact&theme=transparent" height="150" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** *add your link*  
-- **Email:** *add your email*
+- **LinkedIn:** *(add link)*  
+- **Email:** *(add email)*  
 
 ---
 
-> “Striving to build clean, scalable systems — one commit at a time.”
-
+<p align="center">
+  💡 *Always learning, always building.*  
+</p>
