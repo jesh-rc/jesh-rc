@@ -6,40 +6,38 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Software Engineering Student @ Ontario Tech University  
-- 🛠 Full-Stack Developer focused on productivity tools, dashboards, and automation  
-- 💼 Freelance Developer building clean, scalable, and user-friendly applications  
-- 🌱 Always learning — especially cloud, systems design, and backend engineering  
-- ✨ Passionate about creating software that *makes life easier*
+- 🎓 Software Engineering Student @ Ontario Tech University (Dean's List)  
+- 🛠 Full-Stack Developer focused on backend, cloud, and web design  
+- 💼 Experience building internal tools, dashboards, and freelance websites  
+- 🌱 Always learning — cloud computing, AWS, database design, and system architecture  
+- ✨ Passionate about creating software that improves daily life  
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
-**Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-
-**Frameworks & Libraries:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" /> 
-
-**Databases & Storage:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" /> 
-
-**DevOps & Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" /> 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" /> 
+</p>
 
 ---
 
@@ -55,18 +53,31 @@
 - 📝 Note system with categories and search  
 - 🧩 Modular widgets (weather, quotes, reminders)  
 - 💾 Local + cloud sync  
-- 🎨 Minimal and clean UI  
+- 🎨 Clean UI  
+
+### 🔹 Automated Image Processing Pipeline
+- Python + AWS Lambda + S3 + DynamoDB + Rekognition  
+- Serverless image classification and face attribute analysis  
+- Metadata stored in DynamoDB for search and filtering  
+
+### 🔹 Version Control Text Editor
+- Browser-based editor with undo/redo and version history  
+- Frontend: HTML/CSS/JS | Backend logic: JavaScript  
 
 ---
 
-## 📈 GitHub Stats
-![Jeshurun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesh-rc&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesh-rc&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats (Inline)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jesh-rc&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesh-rc&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
-![Contribution Snake](https://raw.githubusercontent.com/jesh-rc/jesh-rc/output/github-contribution-grid-snake-dark.svg)  
+<p align="center">
+<img src="https://raw.githubusercontent.com/jesh-rc/jesh-rc/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
