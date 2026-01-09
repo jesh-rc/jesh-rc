@@ -44,8 +44,8 @@
 
 ## 📊 GitHub Stats (Inline)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jesh-rc&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesh-rc&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesh-rc&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesh-rc&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
